@@ -1,0 +1,8 @@
+{
+	"bread": [{
+		"White": 1.00,
+		"Rye": 2.00,
+		"Tortilla": 3.00,
+		"None": 0
+	}]
+}
